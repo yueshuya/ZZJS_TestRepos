@@ -1,0 +1,16 @@
+PODS:
+  - CZBToolRepo (0.1.0)
+
+DEPENDENCIES:
+  - CZBToolRepo (from `../`)
+
+EXTERNAL SOURCES:
+  CZBToolRepo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CZBToolRepo: 13966258eb84ce33e3bbd451692ffe314c655cd2
+
+PODFILE CHECKSUM: ca83b873d5a465ac2dc05101b95457fd86756438
+
+COCOAPODS: 1.1.1

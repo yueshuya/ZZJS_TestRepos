@@ -1,0 +1,6 @@
+framework module CZBTool {
+  umbrella header "CZBTool.h"
+
+  export *
+  module * { export * }
+}
