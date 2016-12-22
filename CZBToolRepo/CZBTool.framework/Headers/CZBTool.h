@@ -15,5 +15,6 @@ FOUNDATION_EXPORT double CZBToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char CZBToolVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CZBTool/PublicHeader.h>
-
+#import <CZBTool/CZBView.h>
+#import <CZBTool/GainData.h>
 

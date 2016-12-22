@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CZBToolRepo'
-  s.version          = '0.1.1'
-  s.summary          = '陈中宝创建的 CZBToolRepo.'
+  s.version          = '0.1.2'
+  s.summary          = '陈中宝创建的 CZBToolRepo 仓库.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-这是陈中宝创建的，专门用来做测试的一个工具pod CZBToolRepo
+这是陈中宝创建的，专门用来做测试的一个工具pod CZBToolRepo 仓库
                        DESC
 
   s.homepage         = 'https://www.baidu.com/'
