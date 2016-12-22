@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CZBToolRepo_Example' do
+  pod 'CZBToolRepo', :path => '../'
+
+  target 'CZBToolRepo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
